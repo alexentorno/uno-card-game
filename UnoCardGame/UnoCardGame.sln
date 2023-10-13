@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{489D3939-EBD0-4E90-811C-A6BE5D1BDEFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Solution Items", "!Solution Items", "{3CECB8A6-ED96-4822-AF6B-4A84CDF1BDE8}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\card-game-durak\README.md = ..\..\card-game-durak\README.md
+		C:\Users\sasha\AppData\Roaming\JetBrains\Rider2023.2\scratches\.gitignore = C:\Users\sasha\AppData\Roaming\JetBrains\Rider2023.2\scratches\.gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{489D3939-EBD0-4E90-811C-A6BE5D1BDEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489D3939-EBD0-4E90-811C-A6BE5D1BDEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489D3939-EBD0-4E90-811C-A6BE5D1BDEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489D3939-EBD0-4E90-811C-A6BE5D1BDEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
