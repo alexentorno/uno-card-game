@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
-      "MenuSystem/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/MenuSystem.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MenuSystem.dll": {}
-        }
-      }
-    }
+    "net7.0": {}
   },
-  "libraries": {
-    "MenuSystem/1.0.0": {
-      "type": "project",
-      "path": "../MenuSystem/MenuSystem.csproj",
-      "msbuildProject": "../MenuSystem/MenuSystem.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": [
-      "MenuSystem >= 1.0.0"
-    ]
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\sasha\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\RiderProjects\\icd0008-23f\\UnoCardGame\\ConsoleApp\\ConsoleApp.csproj",
-      "projectName": "ConsoleApp",
-      "projectPath": "D:\\Projects\\RiderProjects\\icd0008-23f\\UnoCardGame\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "D:\\Projects\\RiderProjects\\icd0008-23f\\UnoCardGame\\MenuSystem\\MenuSystem.csproj",
+      "projectName": "MenuSystem",
+      "projectPath": "D:\\Projects\\RiderProjects\\icd0008-23f\\UnoCardGame\\MenuSystem\\MenuSystem.csproj",
       "packagesPath": "C:\\Users\\sasha\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\RiderProjects\\icd0008-23f\\UnoCardGame\\ConsoleApp\\obj\\",
+      "outputPath": "D:\\Projects\\RiderProjects\\icd0008-23f\\UnoCardGame\\MenuSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sasha\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,11 +31,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "D:\\Projects\\RiderProjects\\icd0008-23f\\UnoCardGame\\MenuSystem\\MenuSystem.csproj": {
-              "projectPath": "D:\\Projects\\RiderProjects\\icd0008-23f\\UnoCardGame\\MenuSystem\\MenuSystem.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

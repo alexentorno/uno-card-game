@@ -1,0 +1,11 @@
+D:\Projects\RiderProjects\icd0008-23f\UnoCardGame\MenuSystem\bin\Debug\net7.0\MenuSystem.deps.json
+D:\Projects\RiderProjects\icd0008-23f\UnoCardGame\MenuSystem\bin\Debug\net7.0\MenuSystem.dll
+D:\Projects\RiderProjects\icd0008-23f\UnoCardGame\MenuSystem\bin\Debug\net7.0\MenuSystem.pdb
+D:\Projects\RiderProjects\icd0008-23f\UnoCardGame\MenuSystem\obj\Debug\net7.0\MenuSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RiderProjects\icd0008-23f\UnoCardGame\MenuSystem\obj\Debug\net7.0\MenuSystem.AssemblyInfoInputs.cache
+D:\Projects\RiderProjects\icd0008-23f\UnoCardGame\MenuSystem\obj\Debug\net7.0\MenuSystem.AssemblyInfo.cs
+D:\Projects\RiderProjects\icd0008-23f\UnoCardGame\MenuSystem\obj\Debug\net7.0\MenuSystem.csproj.CoreCompileInputs.cache
+D:\Projects\RiderProjects\icd0008-23f\UnoCardGame\MenuSystem\obj\Debug\net7.0\MenuSystem.dll
+D:\Projects\RiderProjects\icd0008-23f\UnoCardGame\MenuSystem\obj\Debug\net7.0\refint\MenuSystem.dll
+D:\Projects\RiderProjects\icd0008-23f\UnoCardGame\MenuSystem\obj\Debug\net7.0\MenuSystem.pdb
+D:\Projects\RiderProjects\icd0008-23f\UnoCardGame\MenuSystem\obj\Debug\net7.0\ref\MenuSystem.dll

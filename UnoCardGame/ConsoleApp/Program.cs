@@ -1,3 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using MenuSystem;
 
-Console.WriteLine("Hello, World!");
+MainMenu menu = new MainMenu();
+
+while (true)
+{
+    menu.FirstMenu();
+}
